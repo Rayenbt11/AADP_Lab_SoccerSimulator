@@ -16,13 +16,7 @@ import java.util.Scanner;
  * @author Sam Please put the names and student numbers of the team here:
  *
  * Name 1: Rayen Bentemessek Number 1: 2021378
- *
- * Name 2: Number 2:
- *
- * Name 3: Number 3:
- *
- * Name 4: Number 4
- *
+ * Github repo link: https://github.com/Rayenbt11/AADP_Lab_SoccerSimulator
  */
 public class AADP_Lab_SoccerSimulator {
 
